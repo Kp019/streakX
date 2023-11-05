@@ -62,7 +62,7 @@ https://supabase.io/
 
 ## Authors
 
-krishnaprasadr666@gmail.com \
-alnaskabeer@gmail.com \
-akhinageorge21@gmail.com \
-joeljoby111@gmail.com
+- [Krishnaprasad R](https://github.com/Kp019)
+- [Alnas Kabeer](https://github.com/technodumb)
+- [Akhina George](https://github.com/akhinageorge)
+- [Joel J George](https://github.com/JoJosuk)
